@@ -3,7 +3,7 @@
 
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
 ✨ Student | Learning Web Development ✨<br>
 ⚡ Check out my projects on GitHub <br>
 📚 Currently exploring Front-end & Back-end development <br>
