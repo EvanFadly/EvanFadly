@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evan Fadly</h1>
-<h3 align="center">I am a vocational high school student passionate about learning technology, especially in front-end and back-end development. Always striving to improve my skills and explore new things in the world of coding.</h3>
+<h4 align="center">I am a vocational high school student passionate about learning technology, especially in front-end and back-end development. Always striving to improve my skills and explore new things in the world of coding.</h4>
 
 
 -----------------------------------------------------------
@@ -18,6 +18,6 @@
 
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/EvanFadly">
-   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=EvanFadly&show_icons=true&theme=dark" alt="GitHub stats" />
-   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanFadly&layout=compact&theme=dark" alt="Most Used Languages" />
-<br>
+   <img height="155em" src="https://raw.githubusercontent.com/EvanFadly/EvanFadly/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/EvanFadly/EvanFadly/master/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+</a>
